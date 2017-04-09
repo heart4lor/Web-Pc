@@ -1,5 +1,5 @@
 ## 1.1.1 <br>
-### 项目名称：合肥学院电脑维修与需求发布网站\<br>
+### 项目名称：合肥学院电脑维修与需求发布网站
 ##1.1.2<br>
 ### 项目成员：胡宇涛，马信宏，孙永飞，许经纬，袁诗林（按首字母顺序排列）<br>
 ## 1.1.3<br>
@@ -25,7 +25,7 @@
 ！！！！！！！！！！！！！！！！！！									 ->修改需求(modifydemand.php)->修改需求后台操作页面(modifydemand-handle.php)<br>
 ！！！！！！！	！！！！！！！！！！！								 ->删除需求(deldemand.php)->删除需求后台操作页面(deldemand-handle.php)<br>
 ！！！！！！！			   ->软件下载(software.php)<br>
-			   ->关于我们(aboutus.php)<br>
+！！！！！！！			   ->关于我们(aboutus.php)<br>
 			   
 后台(admin.php)->维修列表(repairlist.php)->维修信息管理页面(repairmanage.php)<br>
 ！！！！！！！->需求详情(demandlist.php)->需求信息管理页面(demandmanage.php)<br>
