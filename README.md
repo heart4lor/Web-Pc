@@ -8,16 +8,16 @@
 ②服务器环境：ubuntu64 + LampServe64一键安装包
 1.1.4
 版本：1.0.0
-1.1.
-项目开发技术：php + speed + mysql
 1.1.5
+项目开发技术：php + speed + mysql
+1.1.6
 需求：
 ①用户发布需求，这些需求可以是做网页，做博客，或者用单片机做一些简单送人的玩具，只要是和计算机技术相关的需求都可以
 ②电脑的维修，可以帮助维修一些软件问题，比如突然不能上网，路由器不会配置，或者是需要重装系统或者双系统，也可按照固态硬盘和内存条
 ③帮助开发，网站和微信公众号
 ④提供软件下载，如建工系的cad，计科系的vc6.0
 ⑤爬虫技术的运用，可以进行对相关资料进行全网搜索
-1.1.6
+1.1.7
 主页(index.php)->维修电脑(repair.php)->维修登记(repair-regist.php)->增加维修登记后台操作页面(repair-regist-handle.php)
 									 ->维修查询(repairshow.php)
 			   ->发布需求(demand.php)->需求列表(demandlist.php)
@@ -32,7 +32,7 @@
 			   ->管理员(adminrole.php)->增加管理员(addadmin.php)
 									  ->修改管理员(modifyadmin.php)
 									  ->删除管理员(deladmin.php)
-1.1.
+1.1.8
 MySql
 账号：root 密码:itfly
 DB:webpc
